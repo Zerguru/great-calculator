@@ -1,0 +1,12 @@
+.CalcBorder {
+    border: 3px solid black;
+}
+td {
+    border: 3px solid lightgray;
+    padding: 25px;
+    text-align: center;
+    background: lightblue
+}
+.numpad {
+    background: lightcyan;
+}
